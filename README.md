@@ -36,7 +36,7 @@ NewsHolder:
 NewsHolder_Controller:
   extensions:
     - 'FilterableArchiveHolder_ControllerExtension'
-NewsItem_Controller:
+NewsItem:
   extensions:
     - 'FilterableArchiveItemExtension'
 ```
