@@ -9,7 +9,8 @@
     }],
     "require": {
         "silverstripe/framework": "~3.0",
-		"silverstripe/cms": "~3.0"
+	"silverstripe/cms": "~3.0",
+	"silverstripe-australia/gridfieldextensions": "dev-master"
     },
 	"extra": {
 		"installer-name": "filterablearchive"
